@@ -10,9 +10,9 @@ sudo apt install icons-wah
 ```
 - Manually in Debian based.
 >
-[Download lasted .deb](https://github.com/Reisy243/Wah-Icons/tags).
+  [Download lasted .deb](https://github.com/Reisy243/Wah-Icons/tags).
 >
-[Download teko deb](https://panwah.sourceforge.io/repo/apt/pool/main/f/fonts-teko/fonts-teko-1.1_all.deb).
+  [Download teko deb](https://panwah.sourceforge.io/repo/apt/pool/main/f/fonts-teko/fonts-teko-1.1_all.deb).
 ```
 cd (Directory with debs)
 sudo apt install ./fonts-teko-(version)_all.deb
