@@ -1,8 +1,8 @@
-# Wah Icons theme
+# Wah Icons theme #
 ## Requisites
 - [Teko fonts](https://fonts.google.com/specimen/Teko) or from [my deb package](https://panwah.sourceforge.io/repo/apt/pool/main/f/fonts-teko/fonts-teko-1.1_all.deb)
 - (Optional) the repositorie
-## Installation
+## Installation ##
 - Debian based
 ```
 sudo sh -c "$(curl -fsSL https://panwah.sourceforge.io/repo/apt/install.sh)"
@@ -17,7 +17,7 @@ sudo apt install ./fonts-teko-(version)_all.deb
 sudo apt install ./icons-wah-(version)_all.deb
 ```
 - Other linux
-## Download the files
+## Download the files ##
 [Download Teko fonts](https://fonts.google.com/specimen/Teko) (Click on download familly)
 [Download the lasted icon theme](https://github.com/Reisy243/Wah-Icons/tags) (named "sourcecode"), dowload (Code/Download ZIP) or clone this repository
 in the folder with the files
@@ -34,7 +34,7 @@ Installing in the system
 ```
 mv teko /usr/share/fonts
 ```
-## Intalling the icons theme
+## Intalling the icons theme ##
 - for .tar.gz
 ```
 tar -xvf Wah-Icons-(version).tar.gz
