@@ -9,7 +9,7 @@ sudo sh -c "$(curl -fsSL https://panwah.sourceforge.io/repo/apt/install.sh)"
 sudo apt install icons-wah
 ```
 - Manually in Debian based
-[Download lasted .deb](https://github.com/Reisy243/Wah-Icons/tags)
+[Download lasted .deb](https://github.com/Reisy243/Wah-Icons/tags)\n
 [Download teko deb](https://panwah.sourceforge.io/repo/apt/pool/main/f/fonts-teko/fonts-teko-1.1_all.deb)
 ```
 cd (Directory with debs)
