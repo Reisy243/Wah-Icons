@@ -18,8 +18,8 @@ sudo apt install ./icons-wah-(version)_all.deb
 ```
 - Other linux
 ## Download the files ##
-[Download Teko fonts](https://fonts.google.com/specimen/Teko) (Click on download familly)
-[Download the lasted icon theme](https://github.com/Reisy243/Wah-Icons/tags) (named "sourcecode"), dowload (Code/Download ZIP) or clone this repository
+ * [Download Teko fonts](https://fonts.google.com/specimen/Teko) (Click on download familly)
+ * [Download the lasted icon theme](https://github.com/Reisy243/Wah-Icons/tags) (named "sourcecode"), dowload (Code/Download ZIP) or clone this repository
 in the folder with the files
 ## Installing Teko fonts
 extracting the font
