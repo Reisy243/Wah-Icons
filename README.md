@@ -1,4 +1,4 @@
-# Wah-Icons
+# Wah Icons theme
 ## Installation
 - Debian based
 ```
