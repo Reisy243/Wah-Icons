@@ -9,9 +9,9 @@
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="application-x-generic.svg"
-   inkscape:export-filename="../../256x256/mimetypes/application-x-generic.png"
-   inkscape:export-xdpi="48"
-   inkscape:export-ydpi="48"
+   inkscape:export-filename="../../128x128/mimetypes/application-x-generic.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -154,9 +154,9 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1243);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="17.28125"
          y="128.22461"
-         id="tspan149"><tspan
+         id="tspan45"><tspan
            style="font-family:Teko;-inkscape-font-specification:Teko"
-           id="tspan147">?</tspan></tspan></text>
+           id="tspan43">?</tspan></tspan></text>
   </g>
   <metadata
      id="metadata1524">
