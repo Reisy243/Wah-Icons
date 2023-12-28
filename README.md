@@ -8,11 +8,12 @@
 ```
 sudo sh -c "$(wget https://panwah.sourceforge.io/repo/apt/wget_install.sh -O -)"
 ```
- * alternatively install the repository with curl
+ * Alternatively install the repository with curl
 ```
 sudo apt install curl
 sudo sh -c "$(curl -fsSL https://panwah.sourceforge.io/repo/apt/curl_install.sh)"
 ```
+* Install the icon theme
 ```
 sudo apt install icons-wah
 ```
